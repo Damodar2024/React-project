@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Damodar2024/React-project/static/css/main.e6c13ad2.css",
+    "main.js": "/Damodar2024/React-project/static/js/main.d0898f1c.js",
+    "static/js/488.b5fb6f0b.chunk.js": "/Damodar2024/React-project/static/js/488.b5fb6f0b.chunk.js",
+    "index.html": "/Damodar2024/React-project/index.html",
+    "main.e6c13ad2.css.map": "/Damodar2024/React-project/static/css/main.e6c13ad2.css.map",
+    "main.d0898f1c.js.map": "/Damodar2024/React-project/static/js/main.d0898f1c.js.map",
+    "488.b5fb6f0b.chunk.js.map": "/Damodar2024/React-project/static/js/488.b5fb6f0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d0898f1c.js"
+  ]
+}
